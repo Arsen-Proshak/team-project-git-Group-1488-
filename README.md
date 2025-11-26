@@ -1,1 +1,5 @@
-# team-project-git-Group-1488-
+# Team Project Repo
+
+Base README example.
+
+Team contact: Student A & Student B

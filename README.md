@@ -1,5 +1,3 @@
 # Team Project Repo
 
-Base README example.
-
-Team contact: Student A & Student B
+Team contact: Student B
